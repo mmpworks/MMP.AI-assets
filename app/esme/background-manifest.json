@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "product": "Esme",
+  "license": "CC-BY 4.0",
+  "main": {
+    "morning": {
+      "rotationMinutes": 60,
+      "transition": {
+        "type": "fade",
+        "recommendedMs": 1800
+      },
+      "assets": [
+        "app/esme/main/bg/morning/morning-01.webp",
+        "app/esme/main/bg/morning/morning-02.webp",
+        "app/esme/main/bg/morning/morning-03.webp",
+        "app/esme/main/bg/morning/morning-04.webp",
+        "app/esme/main/bg/morning/morning-05.webp",
+        "app/esme/main/bg/morning/morning-06.webp"
+      ]
+    },
+    "day": {
+      "rotationMinutes": 60,
+      "transition": {
+        "type": "fade",
+        "recommendedMs": 1800
+      },
+      "assets": [
+        "app/esme/main/bg/day/day-01.webp",
+        "app/esme/main/bg/day/day-02.webp",
+        "app/esme/main/bg/day/day-03.webp",
+        "app/esme/main/bg/day/day-04.webp",
+        "app/esme/main/bg/day/day-05.webp",
+        "app/esme/main/bg/day/day-06.webp"
+      ]
+    },
+    "night": {
+      "rotationMinutes": 60,
+      "transition": {
+        "type": "fade",
+        "recommendedMs": 1800
+      },
+      "assets": [
+        "app/esme/main/bg/night/night-01.webp",
+        "app/esme/main/bg/night/night-02.webp",
+        "app/esme/main/bg/night/night-03.webp",
+        "app/esme/main/bg/night/night-04.webp",
+        "app/esme/main/bg/night/night-05.webp",
+        "app/esme/main/bg/night/night-06.webp"
+      ]
+    },
+    "night-owl": {
+      "rotationMinutes": 60,
+      "transition": {
+        "type": "fade",
+        "recommendedMs": 1800
+      },
+      "assets": [
+        "app/esme/main/bg/night-owl/night-owl-01.webp",
+        "app/esme/main/bg/night-owl/night-owl-02.webp",
+        "app/esme/main/bg/night-owl/night-owl-03.webp",
+        "app/esme/main/bg/night-owl/night-owl-04.webp",
+        "app/esme/main/bg/night-owl/night-owl-05.webp",
+        "app/esme/main/bg/night-owl/night-owl-06.webp"
+      ]
+    }
+  },
+  "install": {
+    "welcome-license": "app/esme/install/bg/welcome-license.webp",
+    "email-account": "app/esme/install/bg/email-account.webp",
+    "provider-permissions": "app/esme/install/bg/provider-permissions.webp",
+    "ai-provider": "app/esme/install/bg/ai-provider.webp",
+    "mailbox-scan": "app/esme/install/bg/mailbox-scan.webp",
+    "receipt-ocr": "app/esme/install/bg/receipt-ocr.webp",
+    "setup-complete": "app/esme/install/bg/setup-complete.webp"
+  }
+}
