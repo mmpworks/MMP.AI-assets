@@ -4,7 +4,7 @@
   "license": "CC-BY 4.0",
   "main": {
     "morning": {
-      "rotationMinutes": 60,
+      "rotationMinutes": 30,
       "transition": {
         "type": "fade",
         "recommendedMs": 1800
@@ -19,7 +19,7 @@
       ]
     },
     "day": {
-      "rotationMinutes": 60,
+      "rotationMinutes": 30,
       "transition": {
         "type": "fade",
         "recommendedMs": 1800
@@ -34,7 +34,7 @@
       ]
     },
     "night": {
-      "rotationMinutes": 60,
+      "rotationMinutes": 30,
       "transition": {
         "type": "fade",
         "recommendedMs": 1800
@@ -49,7 +49,7 @@
       ]
     },
     "night-owl": {
-      "rotationMinutes": 60,
+      "rotationMinutes": 30,
       "transition": {
         "type": "fade",
         "recommendedMs": 1800
